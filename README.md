@@ -16,7 +16,6 @@ ggplot2
 dplyr
 Install missing packages using:
 
-Example Files on GitHub
 For ease of use, we provide example files for both the gene counts table and sample classification CSV on GitHub. These can be downloaded and adapted to your own data by replacing the content with your individual gene counts and sample metadata.
 
 Converts the counts matrix to a DGEList object.
